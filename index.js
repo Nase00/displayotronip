@@ -1,5 +1,5 @@
 const os = require("os");
-const { get } = require("lodash");
+const { find } = require("lodash");
 const JVSDisplayOTron = require("jvsdisplayotron");
 
 const REFRESH_INTERVAL = 10000;
